@@ -1,1 +1,3 @@
-ini adalah pembuatan file di branch 
+ini adalah pembuatan file di branch
+Menambahkan baris ke empat setelah pembuatan file commit di posisi-1
+Menambahkan baris ke empat setelah pembuatan file commit di posisi-2
