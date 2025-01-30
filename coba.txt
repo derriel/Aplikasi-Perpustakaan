@@ -1,3 +1,6 @@
 ini adalah pembuatan file di branch
 Menambahkan baris ke empat setelah pembuatan file commit di posisi-1
 Menambahkan baris ke empat setelah pembuatan file commit di posisi-2
+Menambahkan baris ke empat setelah pembuatan file commit di posisi-4
+Menambahkan baris ke empat setelah pembuatan file commit di posisi-5
+Menambahkan baris ke empat setelah pembuatan file commit di posisi-6
